@@ -34,6 +34,7 @@ Alles wat ik hier vertel komt voort uit echte interacties met clienten.
 Een selectie van historische clienten bevat bijvoorbeeld (lokale) overheidsinstanties in binnen- en buitenland, veiligheidsdiensten, commerciele bedrijven, non-profit instellingen, NGO's en universiteiten en onderzoekscentra wereldwijd.
 
 De content in deze presentatie lijkt vooral gericht op het in-house geven van onderwijs bij professionals, maar ik gebruik het format voor al mijn onderwijs - ook dat binnen de UU en ook dat voor *aanstaande professionals*.
+
 # Wat doe ik
 
 Ik leer iedereen die dat wil **gratis** programmeren, synthetiseren en omgaan met incomplete data
@@ -169,7 +170,7 @@ c. Zelfs als niet iedereen alle opdrachten heeft afgerond, hebben we door plenai
  
 ## Trucs tot wederkerigheid
 
-We hebben gezien dat we professionals kunenn activeren door strategische onderwijsvormen te kiezen. 
+We hebben gezien dat we professionals kunnen *activeren* door strategische onderwijsvormen te kiezen. 
 
 1. Soms draagt een groep niets uit zichzelf bij. Om te voorkomen dat ik dan alleen ga zenden tijdens bijv. de plenaire nabespreking:
 - vraag ik een professional zijn (deel van) de oplossing te delen
