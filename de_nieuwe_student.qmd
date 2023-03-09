@@ -43,7 +43,7 @@ Ik doe dit volledig open; alles wat ik doe is te vinden op [mijn domein](https:/
 
 -   Neem bijvoorbeeld [deze cursus programmeren](https://www.gerkovink.com/R/)
 -   of [deze cursus Machine Learning](https://www.gerkovink.com/rabobank) voor de rabobank.
--   zelfs [deze cursus predictive machine learning](https://wwww.gerkovink.com/erasmus) voor de Erasmus Academy
+-   zelfs [deze cursus predictive machine learning](https://www.gerkovink.com/erasmus) voor de Erasmus Academy
 -   en [deze cursus omgaan met ontbrekende gegevens](https://www.gerkovink.com/miceVignettes/)
 
 Toch krijg ik veel verzoeken om tegen beloning onderwijs voor professionals te verzorgen.
