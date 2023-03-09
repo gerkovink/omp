@@ -46,7 +46,7 @@ Ik leer iedereen die dat wil **gratis** programmeren, synthetiseren en omgaan me
 Ik doe dit volledig open; alles wat ik doe is te vinden op [mijn domein](https://www.gerkovink.com) en op [GitHub](https://github.com/gerkovink?tab=repositories)
 
 -   Neem bijvoorbeeld [deze cursus programmeren](https://www.gerkovink.com/R/)
--   of [deze cursus Machine Learning](https://www.gerkovink.com/rabobank) voor de rabobank.
+-   of [deze cursus Machine Learning](https://www.gerkovink.com/rabobank) voor de Rabobank.
 -   zelfs [deze cursus predictive machine learning](https://www.gerkovink.com/erasmus) voor de Erasmus Academy
 -   en [deze cursus omgaan met ontbrekende gegevens](https://www.gerkovink.com/miceVignettes/)
 
