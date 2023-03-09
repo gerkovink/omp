@@ -1,0 +1,226 @@
+---
+title: "Hoe onderwijs ik de nieuwe student?"
+author: 
+  - name: Gerko Vink
+    orcid: 0000-0001-9767-1924
+    email: g.vink@uu.nl
+    affiliations:
+      - name: Utrecht University
+institute: Methodology & Statistics @ Utrecht University
+execute: 
+  echo: true
+format: 
+  revealjs:
+    theme: [solarized, gerko.scss]
+    progress: true
+    margin: 0.075
+    logo: logo.png 
+    toc: true
+    toc-depth: 1
+    toc-title: Outline
+    slide-number: true
+    scrollable: false
+    width: 1200
+    reference-location: margin
+    footer: Gerko Vink
+---
+
+## Disclaimer
+
+Ik ben statisticus, geen onderwijskundige.
+
+Alles wat ik hier vertel komt voort uit echte interacties met clienten.
+
+Een selectie van historische clienten bevat bijvoorbeeld (lokale) overheidsinstanties in binnen- en buitenland, veiligheidsdiensten, commerciele bedrijven, non-profit instellingen, NGO's en universiteiten en onderzoekscentra wereldwijd.
+
+De content in deze presentatie lijkt vooral gericht op het in-house geven van onderwijs bij professionals, maar ik gebruik het format voor al mijn onderwijs - ook dat binnen de UU en ook dat voor *aanstaande professionals*.
+# Wat doe ik
+
+Ik leer iedereen die dat wil **gratis** programmeren, synthetiseren en omgaan met incomplete data
+
+Ik doe dit volledig open; alles wat ik doe is te vinden op [mijn domein](https://www.gerkovink.com) en op [GitHub](https://github.com/gerkovink?tab=repositories)
+
+-   Neem bijvoorbeeld [deze cursus programmeren](https://www.gerkovink.com/R/)
+-   of [deze cursus Machine Learning](https://www.gerkovink.com/rabobank) voor de rabobank.
+-   zelfs [deze cursus predictive machine learning](https://wwww.gerkovink.com/erasmus) voor de Erasmus Academy
+-   en [deze cursus omgaan met ontbrekende gegevens](https://www.gerkovink.com/miceVignettes/)
+
+Toch krijg ik veel verzoeken om tegen beloning onderwijs voor professionals te verzorgen.
+
+De meeste *cursusverzoeken* komen ad hoc, doch direct bij mij binnen. Sommige verzoeken komen via collega's of partners. Soms geef ik zelfs les voor andere universiteiten.
+
+Ik gebruik voor mijn persoon altijd de UU-branding!
+
+# Wat is waar?
+
+A. De contactpersoon bij de klant belt op de onderwijsdag om 8.45u boos op dat het vantevoren overeengekomen programma hem/haar persoonlijk toch niet zo goed uitkomt. Over 15 minuten starten we.
+
+B. Omdat de deelnemeraantallen wat tegenvallen wordt gevraagd of ik niet wil afzien van mijn vergoeding. Dan is de cursus namelijk wel kostendekkend.
+
+C. Een week vantevoren wordt een overeengekomen cursus geannuleerd en wordt meegedeeld - ondanks een getekende overeenkomst - dat men niet van plan is te betalen. Dit is de tweede keer bij deze klant.
+
+# Het eerste contact
+
+De meeste initiele contacten lopen op niets uit!
+
+Het eerste contact is vaak met een strategische contactpersoon. Die weet niet altijd wat de leerbehoefte echt is. Dit proces is wel belangrijk!
+
+De parameters van samenwerking moeten wel duidelijk gesteld worden:
+
+- gaat het om co-creatie?
+- gaat het om specifieke vaardigheden?
+- krijg ik soms carte blanche?
+
+# Voor een cursus begint: verificatie
+
+Altijd contact opnemen met deelnemende professionals om ze te vragen naar hun verwachtingen en voorkennis. 
+
+- Wat hoop je te leren?
+- Wat weet je al?
+- Wat is je achtergrond?
+- Wat werk je aan?
+- Waar zou je aan willen werken?
+
+Dit geeft je als docent een mooi inzicht in de samenstelling van de groep, de wensen en de behoeftes. 
+
+Ik pas bijvoorbeeld mijn voorbeelden en beeldspraak in de cursus aan op de audience.
+
+Het geeft de cursist ook een gevoel van eigenaarschap in de leerlijn van de cursus. 
+
+Als iets echt niet in de cursus past, dan kun je daar als docent vooraf ook eerlijk over zijn
+
+# Typen professionals
+In plaats van verschillende groepen te onderscheiden vind ik het prettig om 3 typen professionals te definiëren:
+
+- **Professional A:** Werkt bij een financiele instelling als leidinggevende. Denkt veel te weten over de inhoud van de cursus en stelt vaak makkelijke of samenvattende vragen. Deze professional weet eigenlijk heel weinig over de inhoud, maar komt door zijn stellige vragen en anekdotes wel over als kundig op de rest van de groep. Dit type cursis is de afleider.
+- **Professional B:** Ervaren business analist bij een overheidsinstelling. Maakt vooral dashboards waarin resultaten worden weergegeven. Wil meer te weten komen over de daadwerkelijke analyses. Heeft eigenlijk te weinig statistische of wiskundige achtergrond – maar haalt met veel inspanning wel de praktische leerdoelen van de cursus. Dit type professional is de uitdaging.
+- **Professional C:** Junior data scientist bij een onderzoeksbureau. Pas afgestudeerd en ervaart dat het echte werk veel meer expertise vereist dan de highlights die tijdens de opleiding de revue zijn gepasseerd. Komt echt om te leren van een expert. Stelt goede vragen en weet wat er met de opdrachten wordt gevraagd. Dit type professional is de ideale student.
+
+# Handelswijzen bij typen
+Door de bank genomen: 
+
+- remt professional A de hele cursus 
+  * deze professional zit helemaal niet te wachten op input. 
+  * professional A komt eigenlijk helemaal niet om iets concreets te leren, maar is op certificatenjacht. 
+  * professional A vraagt om aandacht. <br><br>
+  
+- is professional B degene waar je 90% van de tijd in steekt en de primaire drijfveer voor alles wat je in de cursus doet. 
+  * professional B vraagt om hulp. <br><br>
+
+- is professional C is degene die je tussendoor kunt bedienen: deze professional heeft hieraan ook genoeg. 
+  * professional C vraagt om verificatie.
+
+# Modulair *professional* onderwijs
+::: columns
+::: {.column width="60%"}
+
+![](img/schedule.png){width=80%}
+:::
+
+::: {.column width="40%"}
+Het voordeel van modulaire onderwijsblokken:
+
+1. Flexibel omgaan met de aandacht. Je maakt professioneels eigenaar bij intensieve taken ook eigenaar van de verdeling van hun eigen aandacht. 
+2. Rekening houden met verschillende ingangsniveaus en achtergronden. Tijdens de plenaire nabespreking van opdrachten neem je de participanten met een *lagere leeropbrengst* mee, zodat het nieuwe blok met voldoende opbrengst kan worden gestart. 
+3. Wederkerigheid. Ik leer ook vand de oplossingen en problemen waar een groep mee komt, en neem dat mee in hetzelfde en in volgend onderwijs. 
+:::
+:::
+
+## Een typische Gerko les: theorie
+
+### Hoorcollege 
+Dit is een kort college waarin ik de techniek en toepassing uitleg van hetgeen we behandelen. Dit college heeft een vaste opbouw:
+
+a. Wat hebben we al geleerd en waarvoor kunnen we het gebruiken?
+b. Waarom het geleerde tekortschiet mbt een nieuw probleem?
+c. De oplossing van het nieuwe probleem
+d. Welke aannames horen hier bij?
+ 
+Tussendoor laat ik altijd obv code en datavoorbeelden zien hoe je de nieuwe methode daadwerkelijk toepast.
+<br><br>
+Een (technisch) hoorcollege duurt bij mij **nooit langer dan 45 minuten**. Dan
+wordt het echt tijd om zelf te gaan werken met de techniek.
+
+## Een typische Gerko les: praktijk
+
+### Praktische opdracht
+In de praktische opdracht gaan de deelnemers zelf met de techniek/theorie aan de slag.
+
+Deelnemers krijgen een opdracht waaronder de oplossingen en de uitleg van de oplossingen (zogeheten walktrough) staan gegeven. Deze flow van informatie faciliteert drie leerlijnen:
+
+1. Zelfs professional A kan de rationale en train-of-thought van de opdracht volgen
+2. professional B wordt aan de hand genomen door de opdracht heen. Zonder de walkthrough loopt professional B vast.
+3. professional C gebruikt de code en uitleg ter verificatie, maar pas nadat de eigen oplossing is gecreëerd. Alleen bij vastlopen bekijkt professional C de oplossing.
+
+De tijd voor de opdracht is bij voorkeur minstens gelijk aan het hoorcollege. Meestal 45 minuten. Een voorbeeld van een opdracht vindt u [hier](https://www.gerkovink.com/quickmice/) of [hier](https://www.gerkovink.com/simulate)
+
+## Een typische Gerko les: samen begrijpen
+
+### Plenaire nabespreking en discussie
+In dit derde deel van het onderwijsblok ga ik samen met de professionals door de opdracht heen. We luisteren naar elkaars oplossingen en de problemen die we zijn tegengekomen.
+
+a. Ik bespreek de vragen en valkuilen die ik tijdens de praktijksessie ben tegengekomen en ik nodig deelnemers uit om hun oplossingen te delen. 
+b. De meest belangrijke procesreden om een nabespreking te doen is **voor mij** 
+
+- de realisatie van een gezamenlijk vertrekpunt voor het volgende blok. 
+- professionals het gevoel te geven van co-creatie van de inhoud in het lesblok.
+
+c. Zelfs als niet iedereen alle opdrachten heeft afgerond, hebben we door plenaire bespreking toch de leerdoelen behandeld en (een voldoende deel van) de leeropbrengst behaald.
+ 
+## Trucs tot wederkerigheid
+
+We hebben gezien dat we professionals kunenn activeren door strategische onderwijsvormen te kiezen. 
+
+1. Soms draagt een groep niets uit zichzelf bij. Om te voorkomen dat ik dan alleen ga zenden tijdens bijv. de plenaire nabespreking:
+- vraag ik een professional zijn (deel van) de oplossing te delen
+- lang leve MS Teams, waarbij iedere laptop een privescherm wordt
+- deze professional heb ik uiteraard gescout bij het praktische gedeelte
+- dit activeert de groep voor de volgende ronde en leidt doorgaans tot veel nettere en meer gestructureerde code.
+
+2. Competitie werkt goed! Bij veel cursussen loof ik een prijs uit voor bijv. het best voorspellende machine learning model. Activatie zoals nooit eerder gezien!
+
+## Trucs tot wederkerigheid
+3. Voor theoretische uitdagingen in langere (meerweekse cursussen) vraag ik professionals om (nooit meer dan!) een deelhoofdstuk te lezen en plenair
+
+- samen te vatten wat er in stond (synthese)
+- aan te geven wat ze er van vonden (mening)
+- uit te leggen hoe ze met de nieuwe kennis  opdracht x anders zouden doen (toepassing)
+
+Het mooie hieraan is dat je ze niet allemaal tegelijk een opdracht geeft en ze een zo verschillend mogelijke tekstopdracht geeft:
+
+- ze leren zo van elkaar
+- de studielast blijft laag
+- het eet niet teveel weg uit de toch al korte modulaire tijd die ik gebruik
+
+## Trucs tot wederkerigheid
+
+4. Wat als men echt niet weet wat de leervraag is? In plaats van het geijkte vooraf bepaalde hoorcollege/practicum/nabespreking schema, gebruik ik dan:
+
+### Week 1.
+1. Hoorcollege
+2. Casuistiek vanuit de klant --> VRAAG 1
+
+### Week 2. 
+1. Hoorcollege over VRAAG 1
+2. Practicum over VRAAG 1
+3. Casuistiek vanuit de klant --> Vraag 2
+
+### Enz.
+
+Alleen de eerste week hoeft dan vast te staan in overleg. De andere weken worden dan dynamisch en dmv co-creatie ingevuld. 
+
+# De financiele afwikkeling
+Daar zijn gewoon handleiding en sheets voor!
+
+Maar zo simpel is het niet. Mijn tips:
+
+- wees niet te voorzichtig
+- je hoeft niet hetzelfde tarief te vragen aan iedere klant
+
+# Red Flags
+Wanneer je niet direct met de aanstaande professionals mag praten/mailen en alle contact via één persoon binnen de organisatie moet gaan: doe het niet of trek de stekker er uit. 
+
+Je hebt dan waarschijnlijk te maken met een autoritaire of filterende intrapeneur: iemand die de cursus of het onderwijs alleen maar wil gebruiken om de eigen positie te verstevigen. 
+
+
+
